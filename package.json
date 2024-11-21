@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather app",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "Aishwarya",
+  "license": "MIT"
+}
